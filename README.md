@@ -6,6 +6,7 @@ Here are some of the better results:
 ![alt text](https://github.com/aidenchia95/DCGAN/blob/master/images/49.jpg)
 ![alt text](https://github.com/aidenchia95/DCGAN/blob/master/images/7.jpg)
 ![alt text](https://github.com/aidenchia95/DCGAN/blob/master/images/30.jpg)
+![alt text](https://github.com/aidenchia95/DCGAN/blob/master/images/26.jpg)
 
 # Future Work
 1. Expanding beyond MNIST
