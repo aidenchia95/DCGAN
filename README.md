@@ -1,7 +1,7 @@
 # DCGAN
 Training my first DCGAN with Keras  
 Achieved a decent result, but training the model does take quite some time despite running on NVIDIA 1070 GPU.  
-Drew major inspiration from yashk2810's implementation here: https://github.com/yashk2810/DCGAN-Keras  
+Drew major inspiration from yashk2810's implementation: https://github.com/yashk2810/DCGAN-Keras  
 
 Here are some of the better results:  
 ![alt text](https://github.com/aidenchia95/DCGAN/blob/master/images/49.jpg)
